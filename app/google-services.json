@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006192458797",
+    "firebase_url": "https://factoryserver-c1044.firebaseio.com",
+    "project_id": "factoryserver-c1044",
+    "storage_bucket": "factoryserver-c1044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006192458797:android:9afff517e25fe1cd",
+        "android_client_info": {
+          "package_name": "com.example.abratu.factoryserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006192458797-hqvlv4dkjihavedv6oeop503kjf8br56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abratu.factoryserver",
+            "certificate_hash": "e88cae7afe2ff64bcc27aa7951a5b06c98775003"
+          }
+        },
+        {
+          "client_id": "1006192458797-iv39rhl4t2oo5mtmrptg0jk8a3tbkihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbbPFD6UP5E56KByE5ztxgUt4f1zf39w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006192458797-iv39rhl4t2oo5mtmrptg0jk8a3tbkihh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
